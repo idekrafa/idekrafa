@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Rafa<br>💻 Front-End Developer | 📱 Aspiring iOS Engineer<br>🚀 Currently building personal projects with Swift, SwiftUI, and UIKit<br>🌱 Learning daily — focused on iOS development, RESTful APIs, and clean architecture<br>🛠️ Getting experience with Swift, React, Supabase<br>📍 Based in Brazil | Always open to learning and collaborating
+👋 Hi, I’m Rafa<br>💻 Front-End Developer | 📱 Aspiring iOS Engineer<br>🚀 Currently building personal projects with Swift, SwiftUI<br>🌱 Learning daily — focused on iOS development, RESTful APIs, and clean architecture<br>🛠️ Getting experience with Swift, React, Supabase<br>📍 Based in Brazil | Always open to learning and collaborating
 
 
 ## 🌐 Socials:
